@@ -1,0 +1,11 @@
+{
+  "name": "cfresources",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "Amazon Software License",
+  "dependencies": {
+    "aws-sdk": "^2.48.0"
+  }
+}
